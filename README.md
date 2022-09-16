@@ -30,7 +30,7 @@ HW
 2022-10-06
 </td>
 <td style="text-align:left;">
-Descriptive
+Exploratory Data Analysis
 </td>
 <td style="text-align:left;">
 </td>
@@ -60,7 +60,7 @@ No lecture
 2022-10-20
 </td>
 <td style="text-align:left;">
-Descriptive
+Exploratory Data Analysis
 </td>
 <td style="text-align:left;">
 </td>
@@ -75,7 +75,7 @@ Descriptive
 2022-10-27
 </td>
 <td style="text-align:left;">
-Probability, conditional probability, Bayes theorem
+Probability / Conditional Probability / Bayes Theorem
 </td>
 <td style="text-align:left;">
 </td>
@@ -121,7 +121,7 @@ Continuous Distributions
 2022-11-17
 </td>
 <td style="text-align:left;">
-MLE, LLN, CLT
+MLE / LLN / CLT
 </td>
 <td style="text-align:left;">
 </td>
@@ -197,7 +197,7 @@ HW2
 2022-12-22
 </td>
 <td style="text-align:left;">
-Power Analysis, Missing data / Linear regression
+Power Analysis / Missing data / Linear regression
 </td>
 <td style="text-align:left;">
 </td>
@@ -212,7 +212,7 @@ Power Analysis, Missing data / Linear regression
 2022-12-29
 </td>
 <td style="text-align:left;">
-Generalized linear models
+Generalized Linear Models
 </td>
 <td style="text-align:left;">
 </td>
