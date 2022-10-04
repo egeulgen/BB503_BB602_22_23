@@ -30,9 +30,28 @@ HW
 2022-10-06
 </td>
 <td style="text-align:left;">
-Exploratory Data Analysis
+<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/lectures/0.intro.pdf" style="     ">Introduction
+to the Course</a>
 </td>
 <td style="text-align:left;">
+<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/scripts/1.intro.R" style="     ">Intro</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+2022-10-06
+</td>
+<td style="text-align:left;">
+<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/lectures/1.descriptive.pdf" style="     ">Exploratory
+Data Analysis</a>
+</td>
+<td style="text-align:left;">
+<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/scripts/1.basics.pdf" style="     ">Basics</a>
 </td>
 <td style="text-align:left;">
 </td>
