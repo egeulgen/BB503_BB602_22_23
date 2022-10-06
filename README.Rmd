@@ -33,8 +33,8 @@ sched_df$Subject[2] <- link_to_file(sched_df$Subject[2], "lectures/1.descriptive
 
 # links to R exercises
 sched_df$R <- ""
-sched_df$R[1] <- link_to_file("Intro", "scripts/1.intro.R")
-sched_df$R[2] <- link_to_file("Basics", "scripts/1.basics.pdf")
+sched_df$R[2] <- link_to_file("Intro", "scripts/1.intro.R")
+sched_df$R[4] <- link_to_file("Basics", "scripts/4.1.basics.pdf")
 # sched_df$R[1] <- link_to_file("Intro", "scripts/1.intro.R")
 
 sched_df <- sched_df[, c(1:3, 5, 4)]

@@ -34,7 +34,6 @@ HW
 to the Course</a>
 </td>
 <td style="text-align:left;">
-<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/scripts/1.intro.R" style="     ">Intro</a>
 </td>
 <td style="text-align:left;">
 </td>
@@ -51,7 +50,7 @@ to the Course</a>
 Data Analysis</a>
 </td>
 <td style="text-align:left;">
-<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/scripts/1.basics.pdf" style="     ">Basics</a>
+<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/scripts/1.intro.R" style="     ">Intro</a>
 </td>
 <td style="text-align:left;">
 </td>
@@ -82,6 +81,7 @@ No lecture
 Exploratory Data Analysis
 </td>
 <td style="text-align:left;">
+<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/scripts/4.1.basics.pdf" style="     ">Basics</a>
 </td>
 <td style="text-align:left;">
 </td>

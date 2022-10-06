@@ -91,7 +91,7 @@ my_vec <- c()
 # append to vector
 my_vec <- c(my_vec, 3)
 my_vec
-my_vec <- c(1, 2, my_vec)
+my_vec <- c(1, 2, my_vec, 4)
 my_vec
 
 # delete an element
