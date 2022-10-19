@@ -78,10 +78,13 @@ No lecture
 2022-10-20
 </td>
 <td style="text-align:left;">
-Exploratory Data Analysis
+<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/lectures/3.descriptive.pdf" style="     ">Exploratory
+Data Analysis</a>
 </td>
 <td style="text-align:left;">
-<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/scripts/4.1.basics.pdf" style="     ">Basics</a>
+<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/scripts/3.1.basics.pdf" style="     ">Basics</a>
+/
+<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/scripts/3.2.EDA.pdf" style="     ">EDA</a>
 </td>
 <td style="text-align:left;">
 </td>
