@@ -262,29 +262,3 @@ sapply(mat[1, ], function(x) x^3)
 # mean values of 1st variable per sample type
 tapply(mat[, 1], sample_types, mean)
 ```
-
-# Probability
-
-## Basic Simulation - Flipping a fair coin
-
-```{r simul1}
-# by this you get the same answer all the time
-set.seed(321)
-
-# number of trials
-n <- 5000
-
-# tossing coins
-results <- c() # to store results
-average_at_i <- c() # to store averages (will approximate 0.5)
-for (i in 1:n) {
-    current_res <- sample(c(0, 1), 1)
-    results <- c(results, current_res)
-    average_at_i <- c(average_at_i, mean(results))
-}
-
-# plot resulting averages by each trial
-plot(average_at_i, xlab = "Trial number", ylab = "Proportion of 1s")
-plot(average_at_i, xlab = "Trial number", ylab = "Proportion of 1s", type = "l")
-abline(h = 0.5, col = "red")
-```

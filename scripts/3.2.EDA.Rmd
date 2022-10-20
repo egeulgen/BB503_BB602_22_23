@@ -90,7 +90,7 @@ quantile(aids_df$age, probs = c(0.1, 0.25, 0.33, 0.78), type = 2)
 ```{r range}
 # range of CD4 counts at week 1
 max(aids_df$cd4_1) - min(aids_df$cd4_1)
-range(aids_df$cd4_1)
+diff(range(aids_df$cd4_1))
 ```
 
 ### Inter-quantile range
