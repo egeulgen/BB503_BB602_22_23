@@ -23,12 +23,13 @@ link_to_file <- function(text, rel_path) {
 }
 
 # links to HWs
-# sched_df$HW[3] <- link_to_file(sched_df$HW[3], "Homeworks/HW1.pdf")
+sched_df$HW[5] <- link_to_file(sched_df$HW[5], "Homeworks/HW1.pdf")
 
 # links to lectures
 sched_df$Subject[1] <- link_to_file(sched_df$Subject[1], "lectures/0.intro.pdf")
 sched_df$Subject[2] <- link_to_file(sched_df$Subject[2], "lectures/1.descriptive.pdf")
 sched_df$Subject[4] <- link_to_file(sched_df$Subject[4], "lectures/3.descriptive.pdf")
+sched_df$Subject[5] <- link_to_file(sched_df$Subject[5], "lectures/4.probability.pdf")
 
 
 # links to R exercises

@@ -97,12 +97,13 @@ Data Analysis</a>
 2022-10-27
 </td>
 <td style="text-align:left;">
-Probability / Conditional Probability / Bayes Theorem
+<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/lectures/4.probability.pdf" style="     ">Probability
+/ Conditional Probability / Bayes Theorem</a>
 </td>
 <td style="text-align:left;">
 </td>
 <td style="text-align:left;">
-HW1
+<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/Homeworks/HW1.pdf" style="     ">HW1</a>
 </td>
 </tr>
 <tr>
