@@ -30,7 +30,7 @@ HW
 2022-10-06
 </td>
 <td style="text-align:left;">
-<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/lectures/0.intro.pdf" style="     ">Introduction
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/lectures/0.intro.pdf" style="     ">Introduction
 to the Course</a>
 </td>
 <td style="text-align:left;">
@@ -46,11 +46,11 @@ to the Course</a>
 2022-10-06
 </td>
 <td style="text-align:left;">
-<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/lectures/1.descriptive.pdf" style="     ">Exploratory
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/lectures/1.descriptive.pdf" style="     ">Exploratory
 Data Analysis</a>
 </td>
 <td style="text-align:left;">
-<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/scripts/1.intro.R" style="     ">Intro</a>
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/scripts/1.intro.R" style="     ">Intro</a>
 </td>
 <td style="text-align:left;">
 </td>
@@ -78,13 +78,13 @@ No lecture
 2022-10-20
 </td>
 <td style="text-align:left;">
-<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/lectures/3.descriptive.pdf" style="     ">Exploratory
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/lectures/3.descriptive.pdf" style="     ">Exploratory
 Data Analysis</a>
 </td>
 <td style="text-align:left;">
-<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/scripts/3.1.basics.pdf" style="     ">Basics</a>
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/scripts/3.1.basics.pdf" style="     ">Basics</a>
 /
-<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/scripts/3.2.EDA.pdf" style="     ">EDA</a>
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/scripts/3.2.EDA.pdf" style="     ">EDA</a>
 </td>
 <td style="text-align:left;">
 </td>
@@ -97,14 +97,14 @@ Data Analysis</a>
 2022-10-27
 </td>
 <td style="text-align:left;">
-<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/lectures/4.probability.pdf" style="     ">Probability
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/lectures/4.probability.pdf" style="     ">Probability
 / Conditional Probability / Bayes Theorem</a>
 </td>
 <td style="text-align:left;">
-<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/scripts/4.simulation.pdf" style="     ">Prob</a>
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/scripts/4.simulation.pdf" style="     ">Prob</a>
 </td>
 <td style="text-align:left;">
-<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/Homeworks/HW1.pdf" style="     ">HW1</a>
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/Homeworks/HW1.pdf" style="     ">HW1</a>
 </td>
 </tr>
 <tr>
