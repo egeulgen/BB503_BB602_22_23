@@ -8,7 +8,6 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
 # Probability
 
 ## Basic Simulation - Flipping a fair coin
@@ -33,4 +32,23 @@ for (i in 1:n) {
 plot(average_at_i, xlab = "Trial number", ylab = "Proportion of 1s")
 plot(average_at_i, xlab = "Trial number", ylab = "Proportion of 1s", type = "l")
 abline(h = 0.5, col = "red")
+```
+
+## Bayes Theorem
+
+```{r bayes}
+bayesTheorem <- function(pA, pB, pBA) {
+  pAB <- pA * pBA / pB
+  return(pAB)
+}
+```
+
+Given the following statistics, what is the probability that a woman over 50 has cancer if she has a positive mammogram result?
+
+-   One percent of women over 50 have breast cancer
+-   Ninety percent of women who have breast cancer test positive on mammograms
+-   Eight percent of women will have false positives
+
+```{r bayes_ex}
+bayesTheorem(0.01, 0.9 * 0.01 + 0.08 * 0.99, 0.90)
 ```

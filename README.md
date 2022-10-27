@@ -101,6 +101,7 @@ Data Analysis</a>
 / Conditional Probability / Bayes Theorem</a>
 </td>
 <td style="text-align:left;">
+<a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/scripts/4.simulation.pdf" style="     ">Prob</a>
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/egeulgen/BB503_BB602_21_22/blob/main/Homeworks/HW1.pdf" style="     ">HW1</a>

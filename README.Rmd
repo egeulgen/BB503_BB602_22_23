@@ -36,7 +36,7 @@ sched_df$Subject[5] <- link_to_file(sched_df$Subject[5], "lectures/4.probability
 sched_df$R <- ""
 sched_df$R[2] <- link_to_file("Intro", "scripts/1.intro.R")
 sched_df$R[4] <- paste(link_to_file("Basics", "scripts/3.1.basics.pdf"), "/", link_to_file("EDA", "scripts/3.2.EDA.pdf"))
-# sched_df$R[1] <- link_to_file("Intro", "scripts/1.intro.R")
+sched_df$R[5] <- link_to_file("Prob", "scripts/4.simulation.pdf")
 
 sched_df <- sched_df[, c(1:3, 5, 4)]
 
