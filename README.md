@@ -115,9 +115,12 @@ Data Analysis</a>
 2022-11-03
 </td>
 <td style="text-align:left;">
-Discrete Distributions
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/lectures/5.discrete_distributions.pdf" style="     ">Discrete
+Distributions</a>
 </td>
 <td style="text-align:left;">
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/scripts/5.discrete_distr.pdf" style="     ">Discr.
+RV</a>
 </td>
 <td style="text-align:left;">
 </td>
@@ -130,9 +133,12 @@ Discrete Distributions
 2022-11-10
 </td>
 <td style="text-align:left;">
-Continuous Distributions
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/lectures/6.continuous_distributions.pdf" style="     ">Continuous
+Distributions</a>
 </td>
 <td style="text-align:left;">
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/scripts/6.cont_distr.pdf" style="     ">Cont.
+RV</a>
 </td>
 <td style="text-align:left;">
 </td>
