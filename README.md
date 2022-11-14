@@ -151,7 +151,8 @@ RV</a>
 2022-11-17
 </td>
 <td style="text-align:left;">
-MLE / LLN / CLT
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/lectures/7.MLE_LLN_CLT.pdf" style="     ">MLE
+/ LLN / CLT</a>
 </td>
 <td style="text-align:left;">
 </td>

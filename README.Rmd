@@ -32,6 +32,7 @@ sched_df$Subject[4] <- link_to_file(sched_df$Subject[4], "lectures/3.descriptive
 sched_df$Subject[5] <- link_to_file(sched_df$Subject[5], "lectures/4.probability.pdf")
 sched_df$Subject[6] <- link_to_file(sched_df$Subject[6], "lectures/5.discrete_distributions.pdf")
 sched_df$Subject[7] <- link_to_file(sched_df$Subject[7], "lectures/6.continuous_distributions.pdf")
+sched_df$Subject[8] <- link_to_file(sched_df$Subject[8], "lectures/7.MLE_LLN_CLT.pdf")
 
 
 # links to R exercises
