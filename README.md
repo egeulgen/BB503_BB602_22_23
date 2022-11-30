@@ -182,9 +182,12 @@ Midterm Exam
 2022-12-01
 </td>
 <td style="text-align:left;">
-Hypothesis tests I
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/lectures/9.hypothesis.pdf" style="     ">Hypothesis
+tests I</a>
 </td>
 <td style="text-align:left;">
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/scripts/9.hypothesis_tests_1.pdf" style="     ">Hyp.
+1</a>
 </td>
 <td style="text-align:left;">
 </td>
