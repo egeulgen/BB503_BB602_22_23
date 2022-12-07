@@ -186,7 +186,7 @@ Midterm Exam
 tests I</a>
 </td>
 <td style="text-align:left;">
-<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/scripts/9.hypothesis_tests_1.pdf" style="     ">Hyp.
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/scripts/9.hypothesis_tests_1.pdf" style="     ">Hypothesis
 1</a>
 </td>
 <td style="text-align:left;">
@@ -200,9 +200,12 @@ tests I</a>
 2022-12-08
 </td>
 <td style="text-align:left;">
-Hypothesis tests II
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/lectures/10.ANOVA_chi_squared.pdf" style="     ">Hypothesis
+tests II</a>
 </td>
 <td style="text-align:left;">
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/scripts/10.hypothesis_tests_2.pdf" style="     ">Hypothesis
+2</a>
 </td>
 <td style="text-align:left;">
 </td>

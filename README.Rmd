@@ -34,6 +34,7 @@ sched_df$Subject[6] <- link_to_file(sched_df$Subject[6], "lectures/5.discrete_di
 sched_df$Subject[7] <- link_to_file(sched_df$Subject[7], "lectures/6.continuous_distributions.pdf")
 sched_df$Subject[8] <- link_to_file(sched_df$Subject[8], "lectures/7.MLE_LLN_CLT.pdf")
 sched_df$Subject[10] <- link_to_file(sched_df$Subject[10], "lectures/9.hypothesis.pdf")
+sched_df$Subject[11] <- link_to_file(sched_df$Subject[11], "lectures/10.ANOVA_chi_squared.pdf")
 
 
 # links to R exercises
@@ -43,7 +44,8 @@ sched_df$R[4] <- paste(link_to_file("Basics", "scripts/3.1.basics.pdf"), "/", li
 sched_df$R[5] <- link_to_file("Prob", "scripts/4.simulation.pdf")
 sched_df$R[6] <- link_to_file("Discr. RV", "scripts/5.discrete_distr.pdf")
 sched_df$R[7] <- link_to_file("Cont. RV", "scripts/6.cont_distr.pdf")
-sched_df$R[10] <- link_to_file("Hyp. 1", "scripts/9.hypothesis_tests_1.pdf")
+sched_df$R[10] <- link_to_file("Hypothesis 1", "scripts/9.hypothesis_tests_1.pdf")
+sched_df$R[11] <- link_to_file("Hypothesis 2", "scripts/10.hypothesis_tests_2.pdf")
 
 sched_df <- sched_df[, c(1:3, 5, 4)]
 
