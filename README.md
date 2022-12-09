@@ -1,4 +1,4 @@
-BB503/BB602 - Probability & Statististics - Fall 2022
+BB503/BB602/MCB55 - Probability & Statististics - Fall 2022
 ================
 
 <table>
