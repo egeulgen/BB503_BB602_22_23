@@ -218,12 +218,15 @@ tests II</a>
 2022-12-15
 </td>
 <td style="text-align:left;">
-Hypothesis tests III / Multiple testing correction
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/lectures/11.nonparametric_multiple_testing.pdf" style="     ">Hypothesis
+tests III / Multiple testing correction</a>
 </td>
 <td style="text-align:left;">
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/scripts/11.hypothesis_tests_3.pdf" style="     ">Hypothesis
+3</a>
 </td>
 <td style="text-align:left;">
-HW2
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/Homeworks/HW2.pdf" style="     ">HW2</a>
 </td>
 </tr>
 <tr>

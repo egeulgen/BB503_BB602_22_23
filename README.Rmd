@@ -24,6 +24,7 @@ link_to_file <- function(text, rel_path) {
 
 # links to HWs
 sched_df$HW[5] <- link_to_file(sched_df$HW[5], "Homeworks/HW1.pdf")
+sched_df$HW[12] <- link_to_file(sched_df$HW[12], "Homeworks/HW2.pdf")
 
 # links to lectures
 sched_df$Subject[1] <- link_to_file(sched_df$Subject[1], "lectures/0.intro.pdf")
@@ -35,6 +36,7 @@ sched_df$Subject[7] <- link_to_file(sched_df$Subject[7], "lectures/6.continuous_
 sched_df$Subject[8] <- link_to_file(sched_df$Subject[8], "lectures/7.MLE_LLN_CLT.pdf")
 sched_df$Subject[10] <- link_to_file(sched_df$Subject[10], "lectures/9.hypothesis.pdf")
 sched_df$Subject[11] <- link_to_file(sched_df$Subject[11], "lectures/10.ANOVA_chi_squared.pdf")
+sched_df$Subject[12] <- link_to_file(sched_df$Subject[12], "lectures/11.nonparametric_multiple_testing.pdf")
 
 
 # links to R exercises
@@ -46,6 +48,7 @@ sched_df$R[6] <- link_to_file("Discr. RV", "scripts/5.discrete_distr.pdf")
 sched_df$R[7] <- link_to_file("Cont. RV", "scripts/6.cont_distr.pdf")
 sched_df$R[10] <- link_to_file("Hypothesis 1", "scripts/9.hypothesis_tests_1.pdf")
 sched_df$R[11] <- link_to_file("Hypothesis 2", "scripts/10.hypothesis_tests_2.pdf")
+sched_df$R[12] <- link_to_file("Hypothesis 3", "scripts/11.hypothesis_tests_3.pdf")
 
 sched_df <- sched_df[, c(1:3, 5, 4)]
 
