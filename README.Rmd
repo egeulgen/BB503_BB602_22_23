@@ -37,6 +37,7 @@ sched_df$Subject[8] <- link_to_file(sched_df$Subject[8], "lectures/7.MLE_LLN_CLT
 sched_df$Subject[10] <- link_to_file(sched_df$Subject[10], "lectures/9.hypothesis.pdf")
 sched_df$Subject[11] <- link_to_file(sched_df$Subject[11], "lectures/10.ANOVA_chi_squared.pdf")
 sched_df$Subject[12] <- link_to_file(sched_df$Subject[12], "lectures/11.nonparametric_multiple_testing.pdf")
+sched_df$Subject[13] <- link_to_file(sched_df$Subject[13], "lectures/12.Missing_power_linear_regression.pdf")
 
 
 # links to R exercises
@@ -49,6 +50,7 @@ sched_df$R[7] <- link_to_file("Cont. RV", "scripts/6.cont_distr.pdf")
 sched_df$R[10] <- link_to_file("Hypothesis 1", "scripts/9.hypothesis_tests_1.pdf")
 sched_df$R[11] <- link_to_file("Hypothesis 2", "scripts/10.hypothesis_tests_2.pdf")
 sched_df$R[12] <- link_to_file("Hypothesis 3", "scripts/11.hypothesis_tests_3.pdf")
+sched_df$R[13] <- link_to_file("Linear Regression", "scripts/12.linear_regression.pdf")
 
 sched_df <- sched_df[, c(1:3, 5, 4)]
 

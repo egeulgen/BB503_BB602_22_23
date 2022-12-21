@@ -237,9 +237,12 @@ tests III / Multiple testing correction</a>
 2022-12-22
 </td>
 <td style="text-align:left;">
-Power Analysis / Missing data / Linear regression
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/lectures/12.Missing_power_linear_regression.pdf" style="     ">Power
+Analysis / Missing data / Linear regression</a>
 </td>
 <td style="text-align:left;">
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/scripts/12.linear_regression.pdf" style="     ">Linear
+Regression</a>
 </td>
 <td style="text-align:left;">
 </td>
