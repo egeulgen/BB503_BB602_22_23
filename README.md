@@ -255,9 +255,11 @@ Regression</a>
 2022-12-29
 </td>
 <td style="text-align:left;">
-Generalized Linear Models
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/lectures/13.glm.pdf" style="     ">Generalized
+Linear Models</a>
 </td>
 <td style="text-align:left;">
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/scripts/13.glm.pdf" style="     ">GLM</a>
 </td>
 <td style="text-align:left;">
 </td>
