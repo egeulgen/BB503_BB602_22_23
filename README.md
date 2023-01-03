@@ -272,9 +272,11 @@ Linear Models</a>
 2023-01-05
 </td>
 <td style="text-align:left;">
-Resampling Methods
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/lectures/14.resampling.pdf" style="     ">Resampling
+Methods</a>
 </td>
 <td style="text-align:left;">
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/scripts/14.resampling.pdf" style="     ">Resampling</a>
 </td>
 <td style="text-align:left;">
 HW3
