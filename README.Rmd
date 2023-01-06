@@ -25,6 +25,7 @@ link_to_file <- function(text, rel_path) {
 # links to HWs
 sched_df$HW[5] <- link_to_file(sched_df$HW[5], "Homeworks/HW1.pdf")
 sched_df$HW[12] <- link_to_file(sched_df$HW[12], "Homeworks/HW2.pdf")
+sched_df$HW[15] <- link_to_file(sched_df$HW[15], "Homeworks/HW3.pdf")
 
 # links to lectures
 sched_df$Subject[1] <- link_to_file(sched_df$Subject[1], "lectures/0.intro.pdf")

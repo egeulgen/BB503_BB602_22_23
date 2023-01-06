@@ -279,7 +279,7 @@ Methods</a>
 <a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/scripts/14.resampling.pdf" style="     ">Resampling</a>
 </td>
 <td style="text-align:left;">
-HW3
+<a href="https://github.com/egeulgen/BB503_BB602_22_23/blob/main/Homeworks/HW3.pdf" style="     ">HW3</a>
 </td>
 </tr>
 <tr>
